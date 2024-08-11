@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 =======
 # RubyDemon3131
 
-<img src="images/me.jpg" align="right" />
+<img src="me.jpg" align="right" />
 
 I'm Christopher Bulat and I go by `RubyDemon3131` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
 
